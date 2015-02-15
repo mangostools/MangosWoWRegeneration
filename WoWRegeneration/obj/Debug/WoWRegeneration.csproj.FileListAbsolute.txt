@@ -1,0 +1,4 @@
+F:\wowregeneration\Source\WoWRegeneration\WoWRegeneration\bin\Debug\WoWRegeneration.exe
+F:\wowregeneration\Source\WoWRegeneration\WoWRegeneration\bin\Debug\WoWRegeneration.pdb
+F:\wowregeneration\Source\WoWRegeneration\WoWRegeneration\obj\Debug\WoWRegeneration.exe
+F:\wowregeneration\Source\WoWRegeneration\WoWRegeneration\obj\Debug\WoWRegeneration.pdb
